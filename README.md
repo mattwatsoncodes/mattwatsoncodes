@@ -4,7 +4,7 @@ This is my personal profile, where I do all my committing, but unfortunately mos
 
 I have a few public repositories over at my [Wholesome Code GitHub profile](https://github.com/wholesomecode/) that you can take a look at if you want to see my code.
 
-Also for lots of code examples, and how you can get hold of some of those private repositories you can checkout my website: [Wholesome Code](https://wholesomecode.ltd). Its undergoing a overhaul at the moment, so excuse the default theme.
+Also for lots of code examples, and how you can get hold of some of those private repositories you can checkout my website: [Wholesome Code](https://wholesomecode.ltd).
 
 <!--
 **mattwatsoncodes/mattwatsoncodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
