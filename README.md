@@ -6,16 +6,16 @@ I’ve been crafting wonderful things with WordPress since 2006 and spinning web
 
 Checkout my blog, the home of my WordPress, Agile, and Leadership escapades! : [Matt Watson's Blog](https://mattwatson.blog).
 
-- 🔭 I’m currently working on ... Various WordPress projects for work and fun
-- 🌱 I’m currently learning ... The Ins and Outs of the WordPress Full Site Editor
+- 🔭 I’m currently working on ... Development of various WordPress Plugins
+- 🌱 I’m currently learning ... How to extend the WordPress Full Site Editor
 - 👯 I’m looking to collaborate on ... Fun WordPress projects
-- 🤔 I’m looking for help with ... Fun WordPress projects
-- 💬 Ask me about ... Gutenberg
+- 🤔 I’m looking for help with ... [Growing my following](https://mattwatson.blog)
+- 💬 Ask me about ... WordPress, WordPress Plugins, the Block Editor (Gutenberg), and Agile
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/matt-watson/) 
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I used to be a Project Manager, can you belive it?
+- 😄 Pronouns: ... He/Him/His
+- ⚡ Fun fact: ... I used to be in a rock band 🎸
 
-# 📌 Latest Blog posts
+#### 📌 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [6 Essential WordPress Security Tips to Safeguard Your Site From Hackers](https://mattwatson.blog/6-essential-wordpress-security-tips-to-safeguard-your-site-from-hackers)
 - [9 Must-Know PHP and WordPress Hacks That Will Instantly Boost Your Development Workflow](https://mattwatson.blog/9-must-know-php-and-wordpress-hacks-that-will-instantly-boost-your-development-workflow)
