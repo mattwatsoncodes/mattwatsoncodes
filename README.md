@@ -17,4 +17,9 @@ Checkout my blog, the home of my WordPress, Agile, and Leadership escapades! : [
 
 # 📌 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [6 Essential WordPress Security Tips to Safeguard Your Site From Hackers](https://mattwatson.blog/6-essential-wordpress-security-tips-to-safeguard-your-site-from-hackers)
+- [9 Must-Know PHP and WordPress Hacks That Will Instantly Boost Your Development Workflow](https://mattwatson.blog/9-must-know-php-and-wordpress-hacks-that-will-instantly-boost-your-development-workflow)
+- [7 Game-Changing WordPress Performance Hacks](https://mattwatson.blog/7-game-changing-wordpress-performance-hacks)
+- [7 Essential WordPress Tips to Improve SEO and Customise Your Site Easily](https://mattwatson.blog/7-essential-wordpress-tips-to-improve-seo-and-customise-your-site-easily)
+- [8 Essential Code Snippets to Master the WordPress Block Editor](https://mattwatson.blog/8-essential-code-snippets-to-master-the-wordpress-block-editor)
 <!-- BLOG-POST-LIST:END -->
