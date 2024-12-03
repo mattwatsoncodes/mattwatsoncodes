@@ -17,9 +17,9 @@ Checkout my blog, the home of my WordPress, Agile, and Leadership escapades! : [
 
 #### 📌 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Dynamic Template Parts: Supercharge Your WordPress Design Workflow](https://mattwatson.blog/introducing-dynamic-template-parts-supercharge-your-wordpress-design-workflow)
 - [Creating Sidebars in WordPress: Block, Post, Plugin, and Full Site Editor](https://mattwatson.blog/creating-sidebars-in-wordpress-block-post-plugin-and-full-site-editor)
 - [Getting Started with WordPress Block Development Using Studio by WordPress.com](https://mattwatson.blog/getting-started-with-wordpress-block-development-using-studio-by-wordpresscom)
 - [6 Essential WordPress Security Tips to Safeguard Your Site From Hackers](https://mattwatson.blog/6-essential-wordpress-security-tips-to-safeguard-your-site-from-hackers)
 - [9 Must-Know PHP and WordPress Hacks That Will Instantly Boost Your Development Workflow](https://mattwatson.blog/9-must-know-php-and-wordpress-hacks-that-will-instantly-boost-your-development-workflow)
+- [7 Game-Changing WordPress Performance Hacks](https://mattwatson.blog/7-game-changing-wordpress-performance-hacks)
 <!-- BLOG-POST-LIST:END -->
